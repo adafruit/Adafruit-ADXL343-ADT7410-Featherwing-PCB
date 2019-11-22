@@ -1,0 +1,1 @@
+# Adafruit-ADXL353-ADT7410-Featherwing-PCB
